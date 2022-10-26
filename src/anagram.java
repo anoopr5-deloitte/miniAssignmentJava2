@@ -6,7 +6,7 @@ public class anagram {
     public static void main(String []args){
 
         String s1="listen";
-        String s2="sliennt";
+        String s2="slient";
 
         List<Character> list1 = new ArrayList<Character>();
         List<Character> list2 = new ArrayList<Character>();

@@ -1,6 +1,4 @@
 
-
-
 class duplicate {
     static int negativeArray(int arr[], int n)
     {

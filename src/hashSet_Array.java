@@ -14,11 +14,7 @@ public class hashSet_Array {
         hashset.add("By");
         hashset.add("Deloitte");
 
-
-        System.out.println("The HashSet: "
-                + hashset);
-
-
+        System.out.println("The HashSet: "+ hashset);
         Object[] arr = hashset.toArray();
 
         System.out.println("The array is:");
